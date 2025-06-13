@@ -60,11 +60,10 @@ Gue adalah siswa SMK jurusan RPL yang lagi terjun ke dunia pemrograman. Fokus gu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernameJabriel codex&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=64539&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabriel codex&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=64539&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 ## ✨ Sedikit Tentang Gaya Gue
