@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i'am Ariel</h1>
+<h1 align="center">Hello, i'am Jabriel</h1>
 <p align="center">Pelajar Tech | Fullstack Wannabe | Backend in Progress 🚀</p>
 
 ---
@@ -20,6 +20,7 @@ Gue adalah siswa SMK jurusan RPL yang lagi terjun ke dunia pemrograman. Fokus gu
 
 🌍 Impian besar:
 > Jadi developer yang bukan cuma ngoding, tapi juga ngerti makna dari solusi yang dibangun.
+> And Want to build Startup Company
 
 ---
 
