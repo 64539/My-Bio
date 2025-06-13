@@ -1,4 +1,4 @@
-<h1 align="center">Heyy, gue Ariel 👋</h1>
+<h1 align="center">Hello, i'am Ariel</h1>
 <p align="center">Pelajar Tech | Fullstack Wannabe | Backend in Progress 🚀</p>
 
 ---
@@ -60,9 +60,9 @@ Gue adalah siswa SMK jurusan RPL yang lagi terjun ke dunia pemrograman. Fokus gu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LOE&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?usernameJabriel codex&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_LOE&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jabriel codex&layout=compact&theme=tokyonight" />
 </p>
 
 ---
