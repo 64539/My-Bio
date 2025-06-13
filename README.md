@@ -3,11 +3,11 @@
 
 ---
 
-## 🧠 Tentang Gue
+## 🧠 Tentang Gw
 
-Gue adalah siswa SMK jurusan RPL yang lagi terjun ke dunia pemrograman. Fokus gue sekarang lagi di **backend development**, tapi gue udah paham dasar **HTML, CSS, dan JavaScript** buat bikin tampilan web kece dan interaktif.
+Gw adalah siswa SMK jurusan RPL yang lagi terjun ke dunia pemrograman. Fokus gw sekarang lagi di **backend development**, tapi gw udah paham dasar **HTML, CSS, dan JavaScript** buat bikin tampilan web kece dan interaktif.
 
-🔧 Tools yang gue pakai:
+🔧 Tools yang gw pakai:
 - VS Code
 - XAMPP (Apache & MySQL)
 - Git & GitHub
@@ -20,7 +20,7 @@ Gue adalah siswa SMK jurusan RPL yang lagi terjun ke dunia pemrograman. Fokus gu
 
 🌍 Impian besar:
 > Jadi developer yang bukan cuma ngoding, tapi juga ngerti makna dari solusi yang dibangun.
-> And Want to build Startup Company
+> And Want to build a Startup Company
 
 ---
 
@@ -67,16 +67,16 @@ Gue adalah siswa SMK jurusan RPL yang lagi terjun ke dunia pemrograman. Fokus gu
 </p>
 ---
 
-## ✨ Sedikit Tentang Gaya Gue
+## ✨ Sedikit Tentang Gaya Gw
 
-- Coding sambil ngopi itu wajib ☕
+- Coding sambil ngopi Dan Rokok itu wajib ☕
 - Gaya ngoding: clean, readable, anti-spaghetti
-- Gue malas? Kadang. Tapi kalau soal ngulik bug, bisa semalaman.
+- Gw malas? Kadang. Tapi kalau soal ngulik bug, bisa semalaman.
 - Motto: *"Ngoding bukan cuma logika, tapi seni bikin solusi."*
 
 ---
 
-## 📫 Kontak Gue
+## 📫 Kontak Gw
 
 - 📧 Email: jabrielsrizkiarjati2311@gmail.com
 - 📸 Instagram: [@ariel.2311](https://www.instagram.com/ariel.2311)
